@@ -1,0 +1,1 @@
+Now this is the new content that is being overwritten in the example.txt file. This is an example file with some random content just to perform read and write operations.
