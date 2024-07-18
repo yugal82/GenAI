@@ -4,3 +4,4 @@ langchain_community
 wikipedia
 pypdf
 bs4
+langchain-text-splitters
