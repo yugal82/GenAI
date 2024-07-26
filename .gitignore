@@ -2,3 +2,5 @@ Langchain/myenv
 Langchain/.env
 QA-Chatbot/qa-env
 QA-Chatbot/.env
+Conversational-Chatbot/cc-env
+Conversational-Chatbot/.env
