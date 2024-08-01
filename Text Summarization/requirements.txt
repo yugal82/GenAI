@@ -14,3 +14,7 @@ langchain_chroma
 streamlit
 langchain_groq
 ipykernel
+validators==0.28.1
+youtube_transcript_api
+pytube
+unstructured
